@@ -14,6 +14,8 @@
    `python detect-VBeta11.3_lite.py`
 
 ## Results
-https://github.com/SoheilaHatami/Object-Detection-in-Autonomous-Cars-Yolov7/assets/74190994/63dd1749-9eb8-4b05-8514-f4d481adbe8f
+https://github.com/SoheilaHatami/Object-Detection-in-Autonomous-Cars-Yolov7/assets/53007257/eca5b815-38ee-4243-b14b-ecbee82ecdd6
+
+
 
 
